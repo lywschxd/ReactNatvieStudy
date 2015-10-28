@@ -1,1 +1,1 @@
-# react Native ÈëÃÅÑ§Ï°
+# react Native å…¥é—¨å­¦ä¹ 
